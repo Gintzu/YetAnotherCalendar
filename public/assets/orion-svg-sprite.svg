@@ -1,0 +1,50 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="add-1">
+    <title>Add</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1"
+    fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M44 29h-9v-9h-6v9h-9v6h9v9h6v-9h9v-6z"
+    stroke-linejoin="round" stroke-linecap="round"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="angle-right-1">
+    <title>Angle Right</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1"
+    fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M40 31.998L26 18l-4 4.486 9.515 9.512L22 41.513 26 46l14-14.002z"
+    stroke-linejoin="round" stroke-linecap="round"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="angle-left-1">
+    <title>Angle Left</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1"
+    fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M24 32.001L38 46l4-4.485-9.515-9.514L42 22.487 38 18 24 32.001z"
+    stroke-linejoin="round" stroke-linecap="round"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="delete-1">
+    <title>Delete</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1"
+    fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M44 26l-4-4-7 7-7-7-4 4 7 7-7 7 4 4 7-7 7 7 4-4-7-7 7-7z"
+    stroke-linejoin="round" stroke-linecap="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" id="export-1">
+    <title>Export</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path d="M34 22V6H2v52h32V42"
+    stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke="#202020"
+    fill="none" data-name="layer2" stroke-linejoin="round"></path>
+    <path d="M14 32h47M48 43l13-11-13-11" stroke-width="2" stroke-miterlimit="10"
+    stroke-linecap="round" stroke="#202020" fill="none" data-name="layer1"
+    stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" id="edit-1">
+    <title>Edit</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path d="M54.368 17.674l6.275-6.267-8.026-8.025-6.274 6.267"
+    stroke-width="2" stroke-miterlimit="10" stroke="#202020" fill="none" data-name="layer2"
+    stroke-linejoin="round" stroke-linecap="round"></path>
+    <path d="M17.766 54.236l36.602-36.562-8.025-8.025L9.74 46.211 3.357 60.618l14.409-6.382zM9.74 46.211l8.026 8.025"
+    stroke-width="2" stroke-miterlimit="10" stroke="#202020" fill="none" data-name="layer1"
+    stroke-linejoin="round" stroke-linecap="round"></path>
+  </symbol>
+</svg>
